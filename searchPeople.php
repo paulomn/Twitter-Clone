@@ -129,7 +129,7 @@
 						TWEETS <br /> 1
 					</div>
 					<div class="col-md-6">
-						SEGUIDORES <br /> 1
+						FOLLOWERS <br /> 1
 					</div>
 				</div>
 			</div>

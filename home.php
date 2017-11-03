@@ -130,7 +130,7 @@
 						TWEETS <br /> <?= $tweetsAmount ?>
 					</div>
 					<div class="col-md-6">
-						SEGUIDORES <br /> <?= $followersAmount ?>
+						FOLLOWERS <br /> <?= $followersAmount ?>
 					</div>
 				</div>
 			</div>
